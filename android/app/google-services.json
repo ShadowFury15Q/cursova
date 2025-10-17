@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1020114810625",
+    "project_id": "cursova-8f646",
+    "storage_bucket": "cursova-8f646.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020114810625:android:347ca3c652a11c7c904d00",
+        "android_client_info": {
+          "package_name": "com.anms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020114810625-gq5fm6th948asnr5iueooivn0vk5k34c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anms",
+            "certificate_hash": "044c0038e9d27cba7c51a42e23e53c13c6b2f2c4"
+          }
+        },
+        {
+          "client_id": "1020114810625-fq018rdelss7iqa11ds2uqq61p4dkf1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XOvE9OjDQHJS0ImOuc1YN_lDKHD-FjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020114810625-fq018rdelss7iqa11ds2uqq61p4dkf1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020114810625-2c9vekuhlh53o06hnsudu53fn2g7enbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shadow.photoapp.untitledsdsf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020114810625:android:a1d01972a5348341904d00",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020114810625-fq018rdelss7iqa11ds2uqq61p4dkf1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XOvE9OjDQHJS0ImOuc1YN_lDKHD-FjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020114810625-fq018rdelss7iqa11ds2uqq61p4dkf1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020114810625-2c9vekuhlh53o06hnsudu53fn2g7enbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shadow.photoapp.untitledsdsf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
