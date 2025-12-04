@@ -1,0 +1,19 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Release артефакты
+*.aab
+*.apk
+app-release.aab
+app-release.apk
